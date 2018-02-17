@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PointsDisplay
+  - RemainingDisplay
+  - MusicPlayer
+  - LevelDisplay
+  - TimerDisplay
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1252465515
+    locked: 0
+  - name: Slots
+    uniqueID: 4080544775
+    locked: 0
+  - name: Cards
+    uniqueID: 926494841
+    locked: 0
+  - name: UI
+    uniqueID: 4208648513
+    locked: 0

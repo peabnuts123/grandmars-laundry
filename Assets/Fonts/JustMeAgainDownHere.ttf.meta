@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1d01128ddf0fe35408661b742ebd4aa1
+timeCreated: 1495912231
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Just Me Again Down Here
+  fontNames:
+  - Just Me Again Down Here
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
