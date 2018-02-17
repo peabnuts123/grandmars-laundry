@@ -1,4 +1,4 @@
-# Hanging Out To Mars
+# Grandmars Laundry
 ## By Really Dangerous Games
 
 This is our entry for the [Butterscotch Shenanijam 2017](https://itch.io/jam/bscotch100). It is the first game we've ever made/finished 😃🎉.
